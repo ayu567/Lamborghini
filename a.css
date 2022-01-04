@@ -10,3 +10,6 @@
 				color: blanchedalmond;
 				font: 15px/1.5 Arial;
 }
+img{height:640;
+    width:320;
+    object-fit:cover;}
